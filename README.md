@@ -79,18 +79,18 @@ To make these insights accessible to business users, an interactive Power BI das
 
 **Page 1: Executive Overview & Trends**
 *Provides a high-level summary of KPIs, revenue rhythms, order value distribution, and margin analysis.*
-*(Replace this text with the screenshot from slide 32 of your PPT)*
-`[<img width="1007" height="553" alt="Image" src="https://github.com/user-attachments/assets/8ac7064b-b168-4f98-86f7-82ac430efbff" />]`
+
+<img width="1007" height="553" alt="Image" src="https://github.com/user-attachments/assets/8ac7064b-b168-4f98-86f7-82ac430efbff" />
 
 **Page 2: Product & Channel Performance**
 *Allows for deep dives into product revenue, margin champions, and channel profitability.*
-*(Replace this text with the screenshot from slide 33 of your PPT)*
-`[Dashboard Screenshot 2]`
+
+<img width="1010" height="558" alt="Image" src="https://github.com/user-attachments/assets/63a67f80-de31-4a29-bf63-2dd5fbed2347" />
 
 **Page 3: Geographic & Customer Insights**
 *Visualizes sales by state, region, and top/bottom customer segments.*
-*(Replace this text with the screenshot from slide 34 of your PPT)*
-`[Dashboard Screenshot 3]`
+
+<img width="1003" height="558" alt="Image" src="https://github.com/user-attachments/assets/be7b617d-b437-4309-8f03-a02d33afe9e7" />
 
 ---
 
@@ -100,11 +100,6 @@ To make these insights accessible to business users, an interactive Power BI das
     ```bash
     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
     ```
-2.  **Install Dependencies:**
-    It is recommended to create a virtual environment first.
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Note: You will need to create a `requirements.txt` file containing pandas, numpy, matplotlib, seaborn, and plotly).*
-3.  **Run the Notebook:**
+
+2.  **Run the Notebook:**
     Open and run the `EDA_Regional_Sales_Analysis.ipynb` file in a Jupyter environment.
