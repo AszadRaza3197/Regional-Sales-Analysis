@@ -1,4 +1,4 @@
-# USA Regional Sales Analysis (2014-2018)
+# Regional Sales Analysis (2014-2018)
 
 ## 📊 Project Overview
 
